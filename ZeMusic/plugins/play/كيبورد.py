@@ -93,7 +93,7 @@ async def down(client, message):
             #[
                 #[
                     #InlineKeyboardButton(
-                        #"قناة السورس", url=f"https://t.me/ngd_1"),
+                        #"قناة السورس", url=f"https://t.me/zj_x3"),
                 #],[
                     #InlineKeyboardButton(
                         #"• ضيفني لقروبك 🎻", url=f"https://t.me/{app.username}?startgroup=true"),
